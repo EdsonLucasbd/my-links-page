@@ -1,4 +1,4 @@
-this is a simple page containing my social media links, 
+This is a simple page containing my social media links, 
 if you liked it, you can also make yours, it's easy and you can customize it your way.
 just download the files and start playing :smile:.
 
