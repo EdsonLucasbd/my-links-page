@@ -11,4 +11,3 @@ I'm open to tips and suggestions for improvements :v:
 <img src="https://i.ibb.co/d0C9WPh/print-my-links-page.jpg" alt="print-my-links-page" border="0">
  
 
-<img src="https://badges.pufler.dev/updated/EdsonLucasbd/my-links-page">
